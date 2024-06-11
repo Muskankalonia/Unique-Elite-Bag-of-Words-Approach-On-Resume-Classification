@@ -1,4 +1,4 @@
-#Uniqueness meets Semantics: A Novel Semantically Meaningful Bag-of-Words Approach for Matching Resumes to Job Profiles
+# Uniqueness meets Semantics: A Novel Semantically Meaningful Bag-of-Words Approach for Matching Resumes to Job Profiles
 
 
 Code in reference to our paper : [Uniqueness meets Semantics: A Novel Semantically Meaningful Bag-of-Words Approach for Matching Resumes to Job Profiles | Inteligencia Artificial (iberamia.org)](https://journal.iberamia.org/index.php/intartif/article/view/1276)
